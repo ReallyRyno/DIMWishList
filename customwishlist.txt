@@ -5,7 +5,7 @@ description:Custom curated wishlist for Destiny 2 items
 
 // ---- Hand Cannons -----
 
-// Austringer
+// Austringer (Rangefinder)
 //notes: Masterwork: Stability or Range
 dimwishlist:item=3055790362&perks=1482024992,1885400500,699525795,2846385770
 dimwishlist:item=3055790362&perks=1840239774,1885400500,699525795,2846385770

@@ -1,0 +1,10 @@
+// Destiny 2 DIM Wishlist
+
+title:Custom curated wishlist for Destiny 2 items
+description:Custom curated wishlist for Destiny 2 items
+
+// ---- Hand Cannons -----
+
+// Austringer
+dimwishlist:item=3055790362&perks=1482024992,1885400500,3719974635,509594246
+dimwishlist:item=3055790362&perks=1482024992,1885400500,699525795,2846385770
